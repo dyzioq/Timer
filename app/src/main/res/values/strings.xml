@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minutnik</string>
+    <string name="button_start">Start</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_stop">Stop</string>
+    <string name="dotdot">:</string>
+    <string name="up">🔼</string>
+    <string name="down">🔽</string>
+    <string name="zero">0</string>
+</resources>
